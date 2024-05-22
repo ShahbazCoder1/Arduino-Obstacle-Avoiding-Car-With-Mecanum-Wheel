@@ -70,4 +70,10 @@ Follow the Instructions:
 CODE: [Arduino Code File](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/blob/main/mecanum_wheel_obstracl_avoiding_car.ino)
 
 ## Working Video and Tutorial:
-[Watch the video on YouTube](https://www.youtube.com/shorts/q9h_bwrmlRw)
+
+Once the code has been uploaded, insert the battery into the Battery Holder to activate the project.
+
+[Watch the video](https://www.youtube.com/shorts/q9h_bwrmlRw)
+
+I will continue to update this repository with new information. Don’t forget to follow me for updates on new projects and subscribe to my YouTube channel (YouTube: roboattic Lab) for more content. Thank you for your support.
+
