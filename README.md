@@ -36,3 +36,17 @@ In this project, we will use an Ultrasonic Sensor to measure distances. Based on
 - Soldering iron kit
 - Wirecutter
 - Glue gun
+## Modeling Chassis in Thinkercad
+| Chassis              | Wheel Couple            |
+|----------------------|-------------------------|
+| ![Image](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/blob/main/Images/Car%20Chassis.png) | ![Image 1](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/blob/main/Images/Wheel%20Couple.png) |
+
+I used Tinkercad to plan and design my project. I designed this chassis with three things in mind: easy assembly, 3D printability, and affordability. After finalizing the design, I exported the file in STL format to ensure it was ready for 3D printing. The attached file includes all necessary components and dimensions for accurate printing and straightforward assembly. For even greater affordability, you can also consider CNC cutting the chassis frame from an acrylic sheet.
+
+[Download Car Chassis STL File](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/blob/main/Car%20Chassis.stl)
+[Download Wheel Couple STL File](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/blob/main/Wheel%20Couple.stl)
+
+## Circuit Connections:
+| Image 1                                                 | Image 2                                                 | Image 3                                                 | Image 4                                                     | Image 5                                                 |
+|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------|
+| ![Circuit Diagram](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/raw/main/Circuit%20Diagram.jpg) | ![Image 2](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/raw/main/Images/IMG_20240522_075359.jpg) | ![Image 3](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/raw/main/Images/IMG_20240522_075418.jpg) | ![Screenshot](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/raw/main/Images/Screenshot%202024-05-22%20072614.png) | ![Image 5](https://github.com/ShahbazCoder1/Arduino-Obstacle-Avoiding-Car-With-Mecanum-Wheel/raw/main/Images/IMG_20240522_075425.jpg) |
