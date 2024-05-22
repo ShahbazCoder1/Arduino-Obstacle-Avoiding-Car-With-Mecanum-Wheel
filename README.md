@@ -7,4 +7,4 @@ Greetings everyone, and welcome to my GitHub tutorial. Today, I'll guide you thr
 ## Project Overview:
 
 In this project, we will use an Ultrasonic Sensor to measure distances. Based on the detected distance, the car will take appropriate actions. For example, if an obstacle is detected within 20 cm, the car will change its path by performing an omnidirectional movement.
-# Without further ado, let's dive into the project and get started!
+### Without further ado, let's dive into the project and get started!
